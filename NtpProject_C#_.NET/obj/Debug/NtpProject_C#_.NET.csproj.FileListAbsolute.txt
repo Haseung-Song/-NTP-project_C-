@@ -1,0 +1,7 @@
+C:\Harry_SONG\Pre_CodingTest\Pre_VS\NtpProject_C#_.NET\NtpProject_C#_.NET\obj\Debug\NtpProject_C#_.NET.csproj.AssemblyReference.cache
+C:\Harry_SONG\Pre_CodingTest\Pre_VS\NtpProject_C#_.NET\NtpProject_C#_.NET\obj\Debug\NtpProject_C#_.NET.csproj.CoreCompileInputs.cache
+C:\Harry_SONG\Pre_CodingTest\Pre_VS\NtpProject_C#_.NET\NtpProject_C#_.NET\bin\Debug\NtpProject_C#_.NET.exe.config
+C:\Harry_SONG\Pre_CodingTest\Pre_VS\NtpProject_C#_.NET\NtpProject_C#_.NET\bin\Debug\NtpProject_C#_.NET.exe
+C:\Harry_SONG\Pre_CodingTest\Pre_VS\NtpProject_C#_.NET\NtpProject_C#_.NET\bin\Debug\NtpProject_C#_.NET.pdb
+C:\Harry_SONG\Pre_CodingTest\Pre_VS\NtpProject_C#_.NET\NtpProject_C#_.NET\obj\Debug\NtpProject_C#_.NET.exe
+C:\Harry_SONG\Pre_CodingTest\Pre_VS\NtpProject_C#_.NET\NtpProject_C#_.NET\obj\Debug\NtpProject_C#_.NET.pdb

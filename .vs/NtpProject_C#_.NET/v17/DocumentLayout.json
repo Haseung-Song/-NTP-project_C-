@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Harry_SONG\\Pre_CodingTest\\Pre_VS\\NtpProject_C#_.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE61D60-2144-4F57-A59F-6DF9A34CCC6D}|NtpProject_C#_.NET\\NtpProject_C#_.NET.csproj|C:\\Harry_SONG\\Pre_CodingTest\\Pre_VS\\NtpProject_C#_.NET\\ntpproject_c#_.net\\ntp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE61D60-2144-4F57-A59F-6DF9A34CCC6D}|NtpProject_C#_.NET\\NtpProject_C#_.NET.csproj|solutionrelative:ntpproject_c#_.net\\ntp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE61D60-2144-4F57-A59F-6DF9A34CCC6D}|NtpProject_C#_.NET\\NtpProject_C#_.NET.csproj|c:\\harry_song\\pre_codingtest\\pre_vs\\ntpproject_c#_.net\\ntpproject_c#_.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE61D60-2144-4F57-A59F-6DF9A34CCC6D}|NtpProject_C#_.NET\\NtpProject_C#_.NET.csproj|solutionrelative:ntpproject_c#_.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ntp.cs",
+              "DocumentMoniker": "C:\\Harry_SONG\\Pre_CodingTest\\Pre_VS\\NtpProject_C#_.NET\\NtpProject_C#_.NET\\ntp.cs",
+              "RelativeDocumentMoniker": "NtpProject_C#_.NET\\ntp.cs",
+              "ToolTip": "C:\\Harry_SONG\\Pre_CodingTest\\Pre_VS\\NtpProject_C#_.NET\\NtpProject_C#_.NET\\ntp.cs",
+              "RelativeToolTip": "NtpProject_C#_.NET\\ntp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T12:17:07.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Harry_SONG\\Pre_CodingTest\\Pre_VS\\NtpProject_C#_.NET\\NtpProject_C#_.NET\\program.cs",
+              "RelativeDocumentMoniker": "NtpProject_C#_.NET\\program.cs",
+              "ToolTip": "C:\\Harry_SONG\\Pre_CodingTest\\Pre_VS\\NtpProject_C#_.NET\\NtpProject_C#_.NET\\program.cs",
+              "RelativeToolTip": "NtpProject_C#_.NET\\program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T12:19:45.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
